@@ -28,8 +28,8 @@ Anticapitalist (not anarchist) software engineer with an insatiable drive for ex
 ### **💼 Work Projects**
 - 🐍 **BallsCalculator** - Android app with community-driven genetic database and inheritance algorithms
 - 🌱 [**econauts.io**](https://econauts.io) - Web platform for climate change initiatives with blockchain integration
-- ♻️ **ZeroApp.store** - Zero-waste food delivery e-commerce platform
-- 🌰 [**CastagnaDeiMontiCimini.it**](https://castagnadeimonticimini.it) - E-commerce platform for traditional chestnut products
+- ♻️ **zeroapp.store** - Zero-waste food delivery e-commerce platform
+- 🌰 [**castagnadeimonticimini.it**](https://castagnadeimonticimini.it) - E-commerce platform for traditional chestnut products
 - 🤖 **Inverso** - AI-powered real estate management platform with automated workflows
 
 ### **📚 Study Projects**
