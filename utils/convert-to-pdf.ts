@@ -8,7 +8,7 @@ marked.setOptions({
 });
 
 // Read the markdown file
-const markdown: string = readFileSync("./cv.md", "utf8");
+const markdown: string = readFileSync("./README.md", "utf8");
 
 // Convert markdown to HTML
 const html: string = await marked.parse(markdown);
