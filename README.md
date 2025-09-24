@@ -4,7 +4,7 @@
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/6301505?color=orange&label=reputation&logo=stackoverflow&cacheSeconds=86400)](https://stackoverflow.com/users/6301505/lbenevento)
 
 ## About Me
-Anticapitalist (not anarchist) software engineer with an insatiable drive for exploring **cutting-edge technologies**. I thrive on **challenging projects** that venture into uncharted territories, constantly seeking opportunities to learn and implement **emerging solutions**. My commitment to **open-source** and the **democratization of technology** is reflected in my meticulous approach to code quality. I'm particularly energized by **innovative projects** that require diving deep into new tech stacks and paradigms, always aiming to use technology as a tool for **social good** rather than profit (not that easy though). While I offer my expertise **pro-bono** to anticapitalist and community-driven initiatives, I'm also available for paid work on commercial projects.
+Software engineer with an insatiable drive for exploring **cutting-edge technologies**. I thrive on **challenging projects** that venture into uncharted territories, constantly seeking opportunities to learn and implement **emerging solutions**. My commitment to **open-source** and the **democratization of technology** is reflected in my meticulous approach to code quality. I'm particularly energized by **innovative projects** that require diving deep into new tech stacks and paradigms, always aiming to use technology as a tool for **social good** rather than profit (not that easy though). While I offer my expertise **pro-bono** to pacific and non anarchic anticapitalist and community-driven initiatives, I'm also available for paid work on commercial projects.
 
 
 ## Technical Skills
@@ -54,7 +54,9 @@ Anticapitalist (not anarchist) software engineer with an insatiable drive for ex
 
 ### **Investire S.G.R.** (2024 - Present)
 **Full Stack Developer**
-- Lead developer for a comprehensive **workflow automation** application, integrating **AI capabilities** to streamline critical company processes
+- Lead developer for a comprehensive business platform, integrating **AI capabilities** to streamline critical company processes
+- Built and maintained **GraphQL federated services**, enabling scalable and modular API architecture
 - Implemented **enterprise-level authentication** using Microsoft Entra ID, ensuring secure and seamless access management
 - Designed and implemented a secure web platform featuring **dynamic dashboards** and **comprehensive reporting**
 - Responsible for **architectural decisions** and implementation of best practices throughout the development lifecycle
+- Managed **containerized deployments** with Docker, optimizing for reliability, scalability, and CI/CD pipelines
